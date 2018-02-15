@@ -4,7 +4,7 @@
 > **DISCLAIMER**: The current state of this periodic table is stub, which means just a few "elements" was put in place. So, sometimes is required to start...
 
 ## What's is this?
-Probably you already saw [XebiaLabs' Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/). So, this my effort is similar, but it aims to arrange a set of tools for security into DevOps, which someones call DevSecOps.
+Probably you already know [XebiaLabs' Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/). So, this my effort is similar, but it aims to arrange a set of tools for security into DevOps, which someones call DevSecOps.
 
 Initially, I glued a [template of a chemical periodic table](http://cssdeck.com/labs/periodic-table/) to built this one. As soon as I got more time, I'll back to refectory it or someone who interested to change it, feel free.
 
