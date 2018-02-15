@@ -1,7 +1,7 @@
 # Periodic Table of DevSecOps Tools
 
 ## Click [here](https://htmlpreview.github.io/?https://github.com/b-dantas/devsecops-periodictable/blob/master/index.htm) to see the DevSecOps periodic table running :-)
-> **DISCLAIMER**: The current state of this periodic table is a stub, which means just a few "elements" was put in place. So, sometimes is required to start...
+> **DISCLAIMER**: The current state of this periodic table is stub, which means just a few "elements" was put in place. So, sometimes is required to start...
 
 ## What's is this?
 Probably you already saw [XebiaLabs' Periodic Table of DevOps Tools](https://xebialabs.com/periodic-table-of-devops-tools/). So, this my effort is similar, but it aims to arrange a set of tools for security into DevOps, which someones call DevSecOps.
